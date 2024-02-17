@@ -1,1 +1,1 @@
-# Internship-Tasks-Week-3
+In these tasks we are saving the data of herd of cows and the milk production twice a day in a week.We are also calculating the total yield and the average yield for a week and than show the cow with the highest yield and the cow with less than 12 liters of yield in a week.
